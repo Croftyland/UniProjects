@@ -5,7 +5,7 @@ The best small project to start with on a new tool is the classification of iris
 
 The [dataset](https://archive.ics.uci.edu/ml/datasets/Iris) for the project was taken from the great UCI Repository.
 
-![alt text](/Users/christinalandvytovych/PycharmProjects/UniProjects/machine learning/Iris/images/cover.png 'Dataset info from the site')
+![alt text](https://github.com/Croftyland/UniProjects/blob/master/machine%20learning/Iris/images/cover.png 'Dataset info from the site')
 
 **_Objective._** We are going to create a model which could fit the data about what classes of them iris flowers and make some predictictions on their class.
  
@@ -13,7 +13,7 @@ The [dataset](https://archive.ics.uci.edu/ml/datasets/Iris) for the project was 
 
 ![alt text](https://cdn-images-1.medium.com/max/1600/1*2uGt_aWJoBjqF2qTzRc2JQ.jpeg 'The solar flares are spectacular')
 
-#This is a good project because it is so well understood.
+# This is a good project because it is so well understood.
 
 - Attributes are numeric so you have to figure out how to load and handle data.
 - It is a classification problem, allowing you to practice with perhaps an easier type of supervised learning algorithm.
