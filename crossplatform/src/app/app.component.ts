@@ -54,7 +54,7 @@ export class AppComponent implements OnInit {
   //// LOAD PRETRAINED KERAS MODEL ////
 
   async loadModel() {
-    this.model = await tf.loadModel('/assets/model.json');
+    this.model = await tf.loadModel('./assets/model.json');
   }
 
   async predict(imageData: ImageData) {
