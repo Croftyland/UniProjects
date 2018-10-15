@@ -5,3 +5,7 @@ This demo imports an MNIST ConvNet trained in Keras Python, then makes predictio
 
 - clone it, cd into it, `npm install && ng serve`
 
+For using Electron application
+
+- `npm run electron`
+
